@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* setting characterists for header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +23,8 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+/* formatting nav bar inside the header*/
 
 header nav {
     padding-top: 15px;
@@ -86,6 +88,7 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidating the classes so the section refreces the same*/
 .benefitContent {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,7 +104,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* formatting content in subcontent */
 .subcontent {
     margin-bottom: 20px;
     padding: 50px;
@@ -114,7 +117,7 @@ p {
 .subcontent img {
     max-height: 200px;
 }
-
+/* formatting header in the subconted section */
 .subcontent h2 {
     margin-bottom: 20px;
     font-size: 36px;
