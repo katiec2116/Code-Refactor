@@ -4,10 +4,12 @@
     margin: 0;
 }
 /* set background color of page */
+
 body {
     background-color: #d9dcd6;
 }
 /* formatting for header */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +17,7 @@ header {
     color: #ffffff;
 }
 /* formatting for brand name in header */
+
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -44,15 +47,18 @@ header nav ul li {
 }
 
 /* set display for all links */
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
 /* set fonrt size for all p tags */
+
 p {
     font-size: 16px;
 }
+/* formattign for div in top half of page */
 
 .hero {
     height: 800px;
@@ -62,6 +68,8 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* positioning for sections */
 
 .float-left {
     float: left;
@@ -79,6 +87,8 @@ p {
     margin-left: 20px;
 }
 
+/* formatting for aside panel */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -90,7 +100,8 @@ p {
     background-color: #2589bd;
 }
 
-/* consolidating the classes so the section refreces the same*/
+/* formating for secitons inside aside panel*/
+
 .benefitContent {
     margin-bottom: 32px;
     color: #ffffff;
@@ -106,7 +117,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* formatting content in subcontent */
+/* formatting content in subcontent divs*/
+
 .subcontent {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,11 +131,14 @@ p {
 .subcontent img {
     max-height: 200px;
 }
-/* formatting header in the subconted section */
+/* formatting header in the subcontet section */
+
 .subcontent h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* formatting for footer */
 
 .footer {
     padding: 30px;
