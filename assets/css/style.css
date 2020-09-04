@@ -43,11 +43,13 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* set display for all links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* set fonrt size for all p tags */
 p {
     font-size: 16px;
 }
